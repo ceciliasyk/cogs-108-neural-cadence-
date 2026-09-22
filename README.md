@@ -96,7 +96,7 @@ For a concise overview of the completed work, see:
 - **Final Group Report** — detailed methodology, individual contributions,
   challenges, and results
 - **Final Presentation** — visual overview of the research question,
-  analysis workflow, challenges, and findings
+  analysis workflow, challenges, and findings: https://canva.link/unv3ub4y41nl90v
 
 ## Team
 
